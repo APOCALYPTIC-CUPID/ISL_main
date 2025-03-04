@@ -90,6 +90,6 @@ elif page == "About":
         - The model predicts the corresponding letter/number.
         - Text-to-sign conversion available.
 
-        **Built by:** [Saksham Raj Gupta](https://github.com/saksh-sys)
+        **Built by:** [Vansh Pratap Chauhan](https://github.com/APOCALYPTIC-CUPID)
         """
     )
